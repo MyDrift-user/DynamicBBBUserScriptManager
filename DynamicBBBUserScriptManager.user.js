@@ -5,8 +5,8 @@
 // @icon         https://github.com/BBBaden-Moodle-userscripts/BBBUserScriptManager/blob/main/icons/icon.png?raw=true
 // @author       MyDrift (https://github.com/MyDrift-user/)
 // @note Author  PianoNic
-// @downloadURL https://github.com/MyDrift-user/DynamicBBBUserScriptManager/raw/main/DynamicBBBUserScriptManager.user.js
-// @updateURL   https://github.com/MyDrift-user/DynamicBBBUserScriptManager/raw/main/DynamicBBBUserScriptManager.user.js
+// @downloadURL  https://github.com/MyDrift-user/DynamicBBBUserScriptManager/raw/main/DynamicBBBUserScriptManager.user.js
+// @updateURL    https://github.com/MyDrift-user/DynamicBBBUserScriptManager/raw/main/DynamicBBBUserScriptManager.user.js
 // @version      1.0
 // @description  Dynamicaly load "BBB UserScript Manager"
 // @grant        GM_xmlhttpRequest
